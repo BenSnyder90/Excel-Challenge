@@ -23,5 +23,7 @@ CWRU Bootcamp HW1 - Excel
 * **Kickstarters had the lowest success rate in the month of December** – Looking at the Kickstarter Totals per Month sheet, we see a Pivot Table with the amount of Kickstarter campaigns of every state created per month. The Pivot Chart displays a line graph tracking the change in the number of campaigns created through the year. We see the number fluctuate, creating peaks and valleys in both the Successful and Failed states. December, by far, has the lowest amount of Successful campaigns per month with 111. It is also the only month where the number of Failed campaigns exceeds the number of Successful campaigns.
 ![Chart 3](Images/Chart3.PNG)
 
-
+* **Goal amount not a strong indicator of success for a Kickstarter** - Looking at the Outcome Based on Goal $ sheet, we can see a Pivot Line Chart plotting the rates of successful, failed, and canceled campaigns per a range of $5000. While the extreme ends of the ranges had obvious higher success rates and higher failure rates on each respective end, there was no strong indicator if a campaign would be successful or not in the middle ranges.
 ![Chart 4](Images/Chart4.PNG)
+
+Additional analysis can be found in Kickstarter Report.docx.
